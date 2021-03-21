@@ -2,6 +2,8 @@
 <a href="https://www.linkedin.com/in/yong-kang-chia-66b225154/">
   <img align="left" alt="Yong Kang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ExtremelySunnyYK)
 
