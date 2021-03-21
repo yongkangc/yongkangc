@@ -8,13 +8,7 @@
 <br/>
 <p><em>Computer Science Undergrad at <a href="https://www.sutd.edu.sg/">Singapore University of Technology and design</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ExtremelySunnyYK)
-
-
-
 <br />
-
 Hi, I'm [Yong Kang](https://extremelysunnyyk.github.io/), a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am passionate about the intesection of Artificial Intelligence, Software Engineering and Recommender Systems.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
