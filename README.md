@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/yong-kang-chia-66b225154/">
   <img align="left" alt="Yong Kang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 <p><em>Computer Science Undergrad at <a href="https://www.sutd.edu.sg/">Singapore University of Technology and design</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
