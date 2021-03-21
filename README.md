@@ -16,7 +16,9 @@
 Hi, I'm [Yong Kang](https://extremelysunnyyk.github.io/), a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am passionate about the intesection of Artificial Intelligence, Software Engineering and Recommender Systems.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
 <!--
 **ExtremelySunnyYK/ExtremelySunnyYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
