@@ -16,8 +16,6 @@ I am also an open-source enthusiast as I love how the culture of collaboration a
 📝 [Resume](https://extremelysunnyyk.github.io/resume.pdf)
 💬 [Website](https://extremelysunnyyk.github.io/)
 
-<!--
-**ExtremelySunnyYK/ExtremelySunnyYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 📈 My GitHub Stats
 
