@@ -13,7 +13,6 @@ Hi, I'm [Yong Kang](https://extremelysunnyyk.github.io/), a passionate software 
 
 I am also an open-source enthusiast as I love how the culture of collaboration and knowledge sharing.
 
-📝 [Resume](https://extremelysunnyyk.github.io/resume.pdf)
 💬 [Website](https://extremelysunnyyk.github.io/)
 
 
