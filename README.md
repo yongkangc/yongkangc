@@ -9,7 +9,7 @@
 </em></p>
 <br />
 
-Hi, I'm [Yong Kang](https://extremelysunnyyk.github.io/), a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
+Hi, I'm [Yong Kang](https://extremelysunnyyk.github.io/), a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build. 
 
 I am also an open-source enthusiast as I love how the culture of collaboration and knowledge sharing.
 
