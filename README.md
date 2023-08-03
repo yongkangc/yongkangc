@@ -1,8 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p><em>Computer Science Undergrad at <a href="https://www.sutd.edu.sg/">Singapore University of Technology and design</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
-<br />
 
 Hi, I'm [Yong Kang](https://extremelysunnyyk.github.io/), a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build. 
 
