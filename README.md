@@ -5,7 +5,7 @@ Hi, I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/), I write Rust �
 
 I contribute to open source projects in my free time or when I come across a useful project that I can lend my skills to.
 
-💬 [Website](https://extremelysunnyyk.github.io/)
+💬 [Website](https://yong-kang.super.site/)
 
 
 📈 My GitHub Stats
