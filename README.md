@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/), a Rust enthusiast and open-source contributor 🦀. I'm passionate about blockchain, platform engineering, and cybersecurity.
+I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/), a Rust enthusiast and open-source contributor 🦀 I'm passionate about blockchain, platform engineering, and cybersecurity.
 
 In my free time, I enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've started/contributed to include:
 - [Rust Telegram Client](https://crates.io/crates/rustygram) (>300 Downloads)
