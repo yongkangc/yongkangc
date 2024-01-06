@@ -5,7 +5,7 @@
 Hi there! I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/) 👋, a Rust enthusiast 🦀 and open source contributor ❤️. 
 I'm passionate about blockchain 💱, platform engineering 🛠️, and cybersecurity 🔒.
 
-In my free time, I enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've contributed to include:
+In my free time, I enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've started/contributed to include:
 - [Rust Telegram Client](https://crates.io/crates/rustygram) (>300 Downloads)
 - [Rust Binance Async Client](https://github.com/Igosuki/binance-rs-async) (Feature + Bug Fixes)
 
@@ -20,7 +20,7 @@ I love working on projects that allow me to grow my Rust skills 🚀 and collabo
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ExtremelySunnyYK&hide_title=true&show_icons=true&theme=dracula&line_height=24&card_width=120">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremelySunnyYK&count_private=true&theme=dracula&line_height=32&layout=compact&hide=SCSS,html,javascript,css,java,shell&card_width=250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremelySunnyYK&count_private=true&theme=dracula&line_height=32&layout=compact&hide=Tcl,MATLAB,Jupyter Notebook,SCSS,html,javascript,css,java,shell&card_width=250">
 
 </p>
 
