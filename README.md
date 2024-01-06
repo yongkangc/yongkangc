@@ -6,8 +6,8 @@ Hi there! I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/) 👋, a Rus
 I'm passionate about blockchain 💱, platform engineering 🛠️, and cybersecurity 🔒.
 
 In my free time, I enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've contributed to include:
-- [Rust Telegram Client]([url](https://crates.io/crates/rustygram)) (>300 Downloads)
-- [Rust Binance Async Client]([url](https://github.com/Igosuki/binance-rs-async)) (Feature + Bug Fixes)
+- [Rust Telegram Client]([https://crates.io/crates/rustygram]) (>300 Downloads)
+- [Rust Binance Async Client]([https://github.com/Igosuki/binance-rs-async]) (Feature + Bug Fixes)
 
 I love working on projects that allow me to grow my Rust skills 🚀 and collaborate with the open-source community 🤝. If you have any cool Rust projects, I'd be happy to contribute! 
 
