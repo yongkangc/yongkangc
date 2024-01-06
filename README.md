@@ -1,11 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/), I write Rust 🦀
 
-Interest: Blockchain, platform engineering, cybersecurity
+Hi there! I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/) 👋, a Rust enthusiast 🦀 and open source contributor ❤️. 
+I'm passionate about blockchain 💱, platform engineering 🛠️, and cybersecurity 🔒.
 
-I contribute to open source projects in my free time or when I come across a useful project that I can lend my skills to.
+In my free time, I enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've contributed to include:
+- [Rust Telegram Client]([url](https://crates.io/crates/rustygram)) (>300 Downloads)
+- [Rust Binance Async Client]([url](https://github.com/Igosuki/binance-rs-async)) (Feature + Bug Fixes)
+
+I love working on projects that allow me to grow my Rust skills 🚀 and collaborate with the open-source community 🤝. If you have any cool Rust projects, I'd be happy to contribute! 
 
 💬 [Website](https://yong-kang.super.site/)
 
