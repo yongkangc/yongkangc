@@ -22,7 +22,4 @@ I love working on projects that allow me to grow my Rust skills 🚀 and collabo
   <img src="https://github-readme-stats.vercel.app/api?username=ExtremelySunnyYK&hide_title=true&show_icons=true&theme=dracula&line_height=24&card_width=120">
 </p>
 
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>I love connecting with different people</b></em>
 ---
