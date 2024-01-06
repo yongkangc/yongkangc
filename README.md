@@ -15,7 +15,7 @@ I love hackathons ❤️, and I have participated in several large hackathons, i
 - [Avalanche Hackathon](https://www.notion.so/yongkangchia/Derisk-AVAX-Hackathon-Winner-febf80966ec14c8984bfa848a0f4a2f7)
 - [Harvard Hackathon](https://www.notion.so/yongkangchia/Cross-chain-Insurance-Harvard-Blockchain-Hack-Winner-3aeb7eb48da4491b868c7d2ae69fd0a6) - Cross Chain Insurance
 - [Quora LLM Hackathon](https://poe.com/DataAnalyzer) - Data Analyzer Chatbot
-- [Stanford Hackathon](https://devpost.com/software/controldb) - Decentralised DB as Service
+- [Stanford Hackathon](https://devpost.com/software/controldb) - Cost effective Decentralised Database as Service
 
 See all my projects [here](https://www.notion.so/yongkangchia/f253051d42da4602a936f5c7f406b433?v=8aa370ed01ab44e1830275f58ca04521)
 
