@@ -7,7 +7,7 @@ In my free time, I enjoy contributing to open-source projects where I can lend m
 - [Rust Telegram Client](https://crates.io/crates/rustygram) (>300 Downloads)
 - [Rust Binance Async Client](https://github.com/Igosuki/binance-rs-async) (Feature + Bug Fixes)
 
-I love hackathons ❤️, and I have participated in several large hackathons, in which I have won over 10 hackathons. Some notable ones:
+I love hackathons ❤️, and I have participated in several large hackathons, in which I have won over 10 hackathons. Some notable wins:
 - [Chainlink Hackathon](https://devpost.com/software/silas-avery-yong-kang) - Decentralised Data Marketplace
 - [Stanford Hackathon](https://devpost.com/software/controldb) - Cost effective Decentralised Database as Service
 - [Harvard Hackathon](https://www.notion.so/yongkangchia/Cross-chain-Insurance-Harvard-Blockchain-Hack-Winner-3aeb7eb48da4491b868c7d2ae69fd0a6) - Cross Chain Insurance
