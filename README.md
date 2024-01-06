@@ -17,8 +17,8 @@ I love hackathons ❤️, and I have participated in several large hackathons, i
 - [Avalanche Hackathon](https://www.notion.so/yongkangchia/Derisk-AVAX-Hackathon-Winner-febf80966ec14c8984bfa848a0f4a2f7)
 
 
-**See all my projects [here](https://www.notion.so/yongkangchia/f253051d42da4602a936f5c7f406b433?v=8aa370ed01ab44e1830275f58ca04521)
-**
+**See all my projects** [here](https://www.notion.so/yongkangchia/f253051d42da4602a936f5c7f406b433?v=8aa370ed01ab44e1830275f58ca04521)
+
 
 I love working on projects that allow me to grow my Rust skills 🚀 and collaborate with the open-source community 🤝. If you have any cool Rust projects, I'd be happy to contribute! 
 
