@@ -21,7 +21,7 @@ In my free time, I also enjoy contributing to open-source projects where I can l
 
 I love working on projects that allow me to grow my Rust skills 🚀 and collaborate with the open-source community 🤝. If you have any cool Rust projects, I'd be happy to contribute! 
 
-💬 [Website](https://yong-kang.super.site/)
+💬 [Website](https://chiayong.com/)
 
 
 📈 My GitHub Stats
