@@ -29,8 +29,6 @@ Build cool things ✌️
 💬 [Website](https://chiayong.com/)
 
 
-📈 My GitHub Stats
-
 
 <p align="center">
   
