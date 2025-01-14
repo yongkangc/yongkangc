@@ -26,7 +26,7 @@ Nothing but positivity and optimisim. In love with life.
 Build cool things ✌️
 
 
-💬 [Website](https://chiayong.com/)
+💬 [find me at chiayong.com](https://chiayong.com/)
 
 
 
