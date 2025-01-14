@@ -4,7 +4,7 @@
 I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/), a Rust enthusiast and open-source contributor 🦀 
 
 - I love to write Rust with an emphasis on performance and developer experience.
-- My interests include blockchain, platform engineering engineering, cybersecurity, systems eng and trading.
+- My interests include blockchain, platform engineering engineering, cybersecurity, systems eng and defi.
 
 I love hackathons ❤️, and I have participated in several large hackathons, in which I have won over 10 hackathons. Some notable wins:
 - [Chainlink Hackathon](https://devpost.com/software/silas-avery-yong-kang) - Decentralised Data Marketplace
