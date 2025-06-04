@@ -20,6 +20,9 @@ I love hackathons ❤️, and I have participated in several large hackathons, i
 In my free time, I also enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've started/contributed to include:
 - [Rust Telegram Client](https://crates.io/crates/rustygram) (>4000 Downloads)
 - [Rust Binance Async Client](https://github.com/Igosuki/binance-rs-async) (Feature + Bug Fixes)
+- [Rust RWA Onchain SDK](https://github.com/ranger-finance/ostium-rust-sdk)
+
+Checkout these [Rust Crates that I have built with > 40k downloads](https://crates.io/users/yongkangc)
 
 Nothing but positivity and optimisim. In love with life.
 
