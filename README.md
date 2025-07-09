@@ -24,8 +24,6 @@ In my free time, I also enjoy contributing to open-source projects where I can l
 
 Checkout these [Rust Crates that I have built with > 40k downloads](https://crates.io/users/yongkangc)
 
-Nothing but positivity and optimisim. In love with life.
-
 Build cool things ✌️
 
 
