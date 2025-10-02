@@ -24,12 +24,3 @@ Checkout these [Rust Crates that I have built with > 40k downloads](https://crat
 
 
 💬 [find me at chiayong.com](https://chiayong.com/)
-
-
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=yongkangc&hide_title=true&show_icons=true&theme=dracula&line_height=24&card_width=120">
-</p>
-
----
