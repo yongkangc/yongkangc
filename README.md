@@ -9,7 +9,7 @@ I'm [Yong Kang](https://www.linkedin.com/in/chiayong-eth/), a Rust enthusiast an
 In my free time, I also enjoy contributing to open-source projects where I can lend my skills. Some of the projects I've started/contributed to include:
 - [Rust Telegram Client](https://crates.io/crates/rustygram) (>4000 Downloads)
 - [Rust Binance Async Client](https://github.com/Igosuki/binance-rs-async)
-- [Reth](https://github.com/ranger-finance/ostium-rust-sdk) - Fastest EVM Execution client
+- [Reth](https://github.com/paradigmxyz/reth) - Fastest EVM Execution client backed by [paradigm](https://www.paradigm.xyz/)
 
 Checkout these [Rust Crates that I have built with > 40k downloads](https://crates.io/users/yongkangc)
 
